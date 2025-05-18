@@ -108,7 +108,3 @@ and user-controlled financial services without the need for centralized intermed
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
